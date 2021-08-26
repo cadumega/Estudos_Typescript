@@ -17,3 +17,5 @@ botao.addEventListener('click', function() {
 
 
 // Preciso converter ele para testar
+//tsc script.ts --noEmitOnError
+//tsc script.ts --noEmitOnError --outDir public

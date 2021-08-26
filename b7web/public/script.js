@@ -10,3 +10,4 @@ botao.addEventListener('click', function () {
     res.innerHTML = calcular(+numero1.value, +numero2.value).toString(); // transformo em string
 });
 // Preciso converter ele para testar
+//tsc script.ts --noEmitOnError
