@@ -16,6 +16,8 @@ botao.addEventListener('click', function () {
 })
 
 
+// inferencia de tipagem, no qual não preciso colocar no return, o engine do código já entende.
+
 // Preciso converter ele para testar
 // tsc script.ts --noEmitOnError
 // tsc script.ts --noEmitOnError --outDir public
