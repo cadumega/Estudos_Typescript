@@ -15,7 +15,7 @@ function parar() {
     clearInterval(timer);       // Limpar intervalo, e passo o parametro a var do timer. Preciso colocar a var no contexto global e não local do contexto interno da fç acima.
                                 // Posso usar agora o timer tanto no comecar quanto no parar.
 }
-
+da
 
 
 //fç criada, exibir hora atual, com hora minuto e segundo na tela.
